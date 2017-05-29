@@ -1,0 +1,1 @@
+a:3:{i:1;a:3:{s:4:"name";s:1:"o";s:11:"description";s:1:"o";s:3:"doc";s:21:"../pdf/speculator.pdf";}i:2;a:3:{s:4:"name";s:1:"k";s:11:"description";s:1:"k";s:3:"doc";s:17:"../pdf/01shen.PDF";}i:3;a:3:{s:4:"name";s:1:"h";s:11:"description";s:1:"h";s:3:"doc";s:15:"../pdf/Lab5.pdf";}}

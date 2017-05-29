@@ -1,0 +1,1 @@
+a:4:{i:1;a:3:{s:4:"nick";s:10:"гость";s:5:"theme";s:5:"tyjty";s:3:"msg";s:4:"tynt";}i:2;a:3:{s:4:"nick";s:10:"гость";s:5:"theme";s:2:"8i";s:3:"msg";s:1:"7";}i:3;a:3:{s:4:"nick";s:3:"erv";s:5:"theme";s:3:"erb";s:3:"msg";s:3:"erb";}i:4;a:3:{s:4:"nick";s:10:"гость";s:5:"theme";s:1:"g";s:3:"msg";s:2:"ty";}}

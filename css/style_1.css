@@ -1,0 +1,132 @@
+.toptape {
+	vertical-align : top;
+	margin-bottom : 0px;
+}
+
+select {
+	margin-right : 40px;
+	margin-top : -40px;
+}
+
+.search-input {
+	width : 80%;
+	margin-right : 10px;
+}
+
+.refer {
+	margin-left : 20px;
+}
+
+.geo {
+	margin-right :20px;
+}
+
+.headline {
+	background : #A9CCCA;
+}
+
+.topline {
+	background : #9DD1CE;
+}
+
+.underhead {
+	background : #8ADBD6;
+}
+
+.base {
+	background : #5BDED5;
+}
+
+.ads {
+	background : #39CCC2;
+}
+
+.down {
+	background : #09BDB1;
+}
+
+.good1 {
+	background : #4294B8;
+}
+
+.good2 {
+	background : #47A2C9;
+}
+
+.good3 {
+	background : #51B2DB;
+}
+
+.goods {
+	margin-left : 30px;
+}
+
+@-webkit-keyframes pulsate {
+	50% { color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff; }
+}
+
+@keyframes pulsate {
+	50% { color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff; }
+}
+
+#blink7 {
+  color: rgb(245,245,245);
+  text-shadow: 0 -1px rgba(0,0,0,.1);
+  background: green;
+  -webkit-animation: pulsate 1.2s linear infinite;
+  animation: pulsate 1.2s linear infinite;
+}
+
+h4:hover {
+	background-color : #ffe;
+}
+
+.note {
+	color : yellow;
+	font-size :22px;
+}
+
+a:link {
+    color: #0000d0; 
+    padding: 2px; 
+}
+   
+a:hover {
+    background: #786b59;
+    color: #ffe; 
+} 
+  
+a {
+    color: #800000; 
+}
+   
+a:visited {
+    color: #808000; 
+}
+   
+.new:after {
+    color: navy; 
+    font-family: monospace; 
+    content :'NEW';
+}
+	
+.rel {
+	position:relative;
+}
+
+.abs{
+	background-color:red;
+	width:30%;
+	height:50%;
+	position:absolute;
+	right:0px;
+	top:0px;
+	color:white;
+}
+
+.fl:first-letter {
+    font-size: 4em; 
+    color: red; 
+	float: left;
+	border-style: dotted;
+}
